@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Halil Bozdogan</title>
+    <link>https://www.halilbozdogan.com/post/</link>
+    <description>Recent content in Posts on Halil Bozdogan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Mar 2021 11:46:20 +0300</lastBuildDate><atom:link href="https://www.halilbozdogan.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post</title>
+      <link>https://www.halilbozdogan.com/post/test-post/</link>
+      <pubDate>Thu, 18 Mar 2021 11:46:20 +0300</pubDate>
+      
+      <guid>https://www.halilbozdogan.com/post/test-post/</guid>
+      <description>This is a test post</description>
+    </item>
+    
+  </channel>
+</rss>
